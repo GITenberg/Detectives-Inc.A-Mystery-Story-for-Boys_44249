@@ -1,0 +1,27 @@
+_repo: Detectives-Inc.A-Mystery-Story-for-Boys_44249
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44249-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Heyliger, William
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '5278'
+    url: http://www.gutenberg.org/2009/agents/5278
+description: ''
+gutenberg_issued: '2013-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Blind -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+title: 'Detectives, Inc.: A Mystery Story for Boys'
+url: http://www.gutenberg.org/ebooks/44249
